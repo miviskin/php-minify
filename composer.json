@@ -1,5 +1,5 @@
 {
-    "name": "miviskin/minify",
+    "name": "miviskin/php-minify",
     "description": "Minify files.",
     "type": "library",
     "license": "MIT",
